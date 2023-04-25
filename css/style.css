@@ -162,8 +162,9 @@ border-bottom: 2px dotted gray;
 
 #steve .chiq,#bill .chiq,#ada .chiq {
   margin-left: 20px;
-  text-align: left;
-  font-size: 0.9rem;
+  margin-right: 20px;
+  text-align: justify;
+  font-size: 0.8rem;
 }
 
 .botonesAmarillos {
