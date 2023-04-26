@@ -5,7 +5,7 @@
 .header-container {
   height: 60px;
   width: 100%;
-  background-color: gray;
+  background-color: #353a40;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -23,6 +23,7 @@
   max-height: 100%;
   width: 20%;
   margin-left: 45px;
+  margin-right: 20px;
 }
 
 .logo-text {
@@ -46,8 +47,14 @@ nav li {
 nav a {
   text-decoration: none;
   font-size: 0.9rem;
-  color: white;
+  color: #989da0;
 }
+
+a.conferencia {
+  color: #fff;
+}
+
+
 
 nav a:hover {
   text-decoration: none;
@@ -56,7 +63,7 @@ nav a:hover {
 
 .Comprar-tickets {
   font-size: 0.9rem;
-  color: lightgreen;
+  color: #27a844;
   font-weight: bold;
   cursor: pointer;
   margin-right: 50px;
@@ -370,7 +377,7 @@ textarea {
 }
 
 footer {
-  background-color: rgb(44, 44, 54);
+  background-color: #1f485e;
   height: 80px;
 }
 
